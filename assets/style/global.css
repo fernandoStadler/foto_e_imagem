@@ -1,12 +1,16 @@
 
 
-*{
 
-    font-family: 'Lobster Two', cursive;
+body{
+  background-color: #ebebeb !important;
 }
 
+.default-font{
+  font-family: 'Lobster Two', cursive;
+
+}
 .dark-transparent{
-    background-color:rgb(0, 0, 0,0.7)
+    background-color:rgb(0, 0, 0,0.8)
 }
 
 .pricing .card {
